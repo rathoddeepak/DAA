@@ -7,3 +7,4 @@
 ./greedy/Dijkastras.py
 ./greedy/kruskal question.jpg
 ./greedy/Dijkastras.jpg
+./greedy/huffman.py
