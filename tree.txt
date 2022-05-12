@@ -1,1 +1,9 @@
 ./greedy/
+./greedy/kruskal.py
+./greedy/prims.py
+./greedy/knapsack.py
+./greedy/BFS.py
+./greedy/DFS.py
+./greedy/Dijkastras.py
+./greedy/kruskal question.jpg
+./greedy/Dijkastras.jpg
