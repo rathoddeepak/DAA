@@ -77,3 +77,4 @@ def dijkastra(startPoint):
 
 dijkastra(1);
 printWeights();
+
